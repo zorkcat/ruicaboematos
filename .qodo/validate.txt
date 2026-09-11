@@ -1,0 +1,5 @@
+JSON-LD ok
+JS script #1 syntax OK (85933 chars)
+IDs: 65 | dups:  | âncoras rotas: 
+Classes sen CSS: [${getStatusClass(, )}, tractor.status]
+Tags sen pechar ao final: []
